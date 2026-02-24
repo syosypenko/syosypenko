@@ -1,6 +1,6 @@
 # Hi, I’m Serhiy Yosypenko 👋
 
-Software Engineer with **8+ years of professional experience** building and maintaining web applications, APIs, and integrations.  
+Software Engineer with **10+ years of professional experience** building and maintaining web applications, APIs, and integrations.  
 Strong background in **Ruby on Rails**, currently expanding into **Python and AI-powered backend systems** through hands-on projects.
 
 I enjoy working on **scalable, maintainable systems**, clean APIs, automation, and products that solve real problems.
